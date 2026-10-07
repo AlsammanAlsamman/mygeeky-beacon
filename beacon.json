@@ -1,9 +1,13 @@
 {
-  "mygeeky_beacon": 1,
+  "mygeeky_beacon": 2,
+  "keys": [
+    "mp9NHSaVhytP8iUA3uYxX9AM0IhG82tGSPA3Dk3Q724="
+  ],
   "status": "",
+  "quiet": false,
   "interests": [
     "python",
     "r"
   ],
-  "gestures": []
+  "sealed": []
 }
