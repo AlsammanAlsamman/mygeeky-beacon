@@ -1,6 +1,6 @@
 # mygeeky-beacon
 
-This is a [myGeeKy](https://github.com/AlsammanAlsamman/myGeeKy) beacon.
+This is a [myGeeKy](https://github.com/mygeeky/myGeeKy) beacon.
 
 `beacon.json` holds a public key, an optional status and a few interest tags.
 It also holds **sealed signals** (🙏 thanks, 📚 learned from your work, ⭐ used
